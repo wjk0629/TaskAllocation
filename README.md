@@ -6,5 +6,6 @@ TaskAllocation을 구현해보자(until Random generation, GA is not yet impleme
               HONGGUANG ZHANG,HAN LUO,ZAN WANG,YUHONG LIU,YUANAN LIU, 
                                                                             IEEE Access (2019)) 
                                                                             
-                                                                            
-![Uploading image.png…]()
+
+
+![image](https://user-images.githubusercontent.com/51067104/145568836-0c8268eb-56bd-43a8-9f6c-f75b203567b4.png)
